@@ -1,4 +1,4 @@
-# Hi, I'm Aadhil Muhammed 👋
+# Bonjour, développeurs👋
 
 🎓 B.Tech Computer Science Student  
 🌐 Aspiring Machine Learning & Data Science Enthusiast  
