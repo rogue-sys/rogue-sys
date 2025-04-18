@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Aadhil Muhammad 👋
 
-<!--
-**rogue-sys/rogue-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+🌐 Aspiring Machine Learning & Data Science Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a passionate developer with hands-on experience in:
+
+- **Python**, **Node.js**, **Flask**, **SQL**
+- **JavaScript**, **React**, **HTML**
+- **Power BI** for data visualization
+- **Linux** for development and system operations
+- **Git & GitHub** for version control and collaboration
+
+Currently exploring **Machine Learning** and **Data Science** to build impactful, real-world solutions using data and technology.
+
+---
+
+## 📂 Projects
+
+All my personal projects are available right here on GitHub — showcasing my learning journey, technical skills, and problem-solving mindset.
+
+Feel free to explore, fork, or contribute!
+
+---
+
+## 📫 Let's Connect
+
+- 📧 [aadhilmuhammed06@gmail.com](mailto:aadhilmuhammed06@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) *(add your link here)*
+
+---
+
+*“Driven by curiosity, powered by code.”*
