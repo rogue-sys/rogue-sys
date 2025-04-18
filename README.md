@@ -1,4 +1,4 @@
-# Hi, I'm Aadhil Muhammad 👋
+# Hi, I'm Aadhil Muhammed 👋
 
 🎓 B.Tech Computer Science Student  
 🌐 Aspiring Machine Learning & Data Science Enthusiast  
@@ -30,8 +30,7 @@ Feel free to explore, fork, or contribute!
 ## 📫 Let's Connect
 
 - 📧 [aadhilmuhammed06@gmail.com](mailto:aadhilmuhammed06@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) *(add your link here)*
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aadhil-muhammed-2652b2219/)
 ---
 
 *“Driven by curiosity, powered by code.”*
