@@ -27,10 +27,18 @@ Feel free to explore, fork, or contribute!
 
 ---
 
+## 🔥 GitHub Stats & Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogue-sys&theme=default)
+![Aadhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogue-sys&show_icons=true&theme=default)
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 [aadhilmuhammed06@gmail.com](mailto:aadhilmuhammed06@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aadhil-muhammed-2652b2219/)
+
 ---
 
 *“Driven by curiosity, powered by code.”*
