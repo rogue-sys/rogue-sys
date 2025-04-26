@@ -23,15 +23,7 @@ Currently exploring **Machine Learning** and **Data Science** to build impactful
 
 All my personal projects are available right here on GitHub — showcasing my learning journey, technical skills, and problem-solving mindset.
 
-Feel free to explore, fork, or contribute!
-
----
-
-## 🔥 GitHub Stats & Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogue-sys&theme=default)
-![Aadhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogue-sys&show_icons=true&theme=default)
-
+Feel free to explore, fork, or contribute
 ---
 
 ## 📫 Let's Connect
@@ -41,4 +33,4 @@ Feel free to explore, fork, or contribute!
 
 ---
 
-*“Driven by curiosity, powered by code.”*
+*“Un bon développeur est paresseux : il cherche toujours à faire plus avec moins.”*
