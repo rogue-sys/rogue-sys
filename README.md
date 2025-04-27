@@ -1,4 +1,5 @@
-# Bonjour, développeurs👋
+# Bonjour, développeurs 👋  
+*"Turning ideas into reality, one line of code at a time."*
 
 🎓 B.Tech Computer Science Student  
 🌐 Aspiring Machine Learning & Data Science Enthusiast  
@@ -7,23 +8,43 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate developer with hands-on experience in:
+🚀 Passionate about building things that make a difference.
 
+🛠️ Skilled in:
 - **Python**, **Node.js**, **Flask**, **SQL**
 - **JavaScript**, **React**, **HTML**
 - **Power BI** for data visualization
 - **Linux** for development and system operations
 - **Git & GitHub** for version control and collaboration
 
-Currently exploring **Machine Learning** and **Data Science** to build impactful, real-world solutions using data and technology.
+🎯 Currently diving deep into **Machine Learning** and **Data Science** to create impactful, real-world solutions.
 
 ---
 
-## 📂 Projects
+## 🛠️ Tools & Technologies
 
-All my personal projects are available right here on GitHub — showcasing my learning journey, technical skills, and problem-solving mindset.
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 
-Feel free to explore, fork, or contribute
+---
+
+## 📂 Featured Projects
+
+Explore my projects to see my journey of continuous learning and problem-solving.  
+📌 *Open to collaborations and fresh ideas!*  
+📌 *If you find something useful, feel free to ⭐ it!*
+
+---
+
+## 🔥 GitHub Stats & Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogue-sys&theme=default)
+![Aadhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogue-sys&show_icons=true&theme=default)
+
 ---
 
 ## 📫 Let's Connect
@@ -33,4 +54,4 @@ Feel free to explore, fork, or contribute
 
 ---
 
-*“Un bon développeur est paresseux : il cherche toujours à faire plus avec moins.”*
+*"Un bon développeur est paresseux : il cherche toujours à faire plus avec moins."*
