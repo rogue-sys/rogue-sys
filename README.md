@@ -27,7 +27,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 
 ---
