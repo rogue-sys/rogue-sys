@@ -11,7 +11,7 @@
 🚀 Passionate about building things that make a difference.
 
 🛠️ Skilled in:
-- **Python**, **Node.js**, **django**, **SQL**
+- **Python**, **django**, **SQL**
 - **JavaScript**, **React**, **HTML**
 - **Power BI** for data visualization
 - **Linux** for development and system operations
