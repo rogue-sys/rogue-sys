@@ -14,6 +14,7 @@
 - **Python**, **django**, **SQL**
 - **JavaScript**, **React**, **HTML**
 - **Power BI** for data visualization
+- **Azure** for cloud
 - **Linux** for development and system operations
 - **Git & GitHub** for version control and collaboration
 
@@ -27,6 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 
 ---
