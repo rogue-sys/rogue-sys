@@ -2,7 +2,7 @@
 *"Turning ideas into reality, one line of code at a time."*
 
 🎓 B.Tech Computer Science Student  
-🌐 Aspiring Machine Learning & Data Science Enthusiast  
+🌐 Aspiring Data Engineering Enthusiast  
 
 ---
 
@@ -18,7 +18,7 @@
 - **Linux** for development and system operations
 - **Git & GitHub** for version control and collaboration
 
-🎯 Currently diving deep into **Machine Learning** and **Data Science** to create impactful, real-world solutions.
+🎯 Currently diving deep into **AI** and **Data Engineering** to create impactful, real-world solutions.
 
 ---
 
@@ -36,15 +36,7 @@
 ## 📂 Featured Projects
 
 Explore my projects to see my journey of continuous learning and problem-solving.  
-📌 *Open to collaborations and fresh ideas!*  
-📌 *If you find something useful, feel free to ⭐ it!*
-
----
-
-## 🔥 GitHub Stats & Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogue-sys&theme=default)
-![Aadhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogue-sys&show_icons=true&theme=default)
+📌 *Open to collaborations and fresh ideas!*
 
 ---
 
